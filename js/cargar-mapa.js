@@ -43,28 +43,28 @@ document.addEventListener('DOMContentLoaded', function() {
                 telefono : '+55 (11) 91234-5678',
             },
             Uruguay : {
-                direccion : 'Calle 18 de Julio, 567',
+                direccion : '18 DE JULIO 841, OFICINA 401',
                 ciudad: 'Montevideo',
                 telefono : '+598 (98) 123-4567',
             },
             EstadosUnidos : {
-                direccion : '742 Evergreen Terrace',
-                ciudad: 'Springfield',
+                direccion : 'Wyoming',
+                ciudad: 'Estados Unidos',
                 telefono : '+1 (555) 123-4567',
             },
             Suiza : {
-                direccion : 'Bahnhofstrasse 1',
-                ciudad: 'Zürich',
+                direccion : 'Ginebra',
+                ciudad: 'Suiza',
                 telefono : '+41 (44) 123-4567',
             },
             NuevaZelanda : {
-                direccion : 'Bag End, Hobbiton',
-                ciudad: 'La Comarca',
+                direccion : 'Floor 3, 32 Mahuhu Crescent',
+                ciudad: 'Auckland',
                 telefono : '+64 (21) 123-4567',
             },
             Bvi : {
-                direccion : '123 Palm Tree Avenue',
-                ciudad: 'Charlotte Amalie, St. Thomas',
+                direccion : '3076 Sin Drake´s highway, road town',
+                ciudad: 'Tortola',
                 telefono : '+1 (340) 555-1234',
             },
         }
