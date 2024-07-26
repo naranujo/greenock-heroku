@@ -8,7 +8,7 @@ $lang = 'es';
 if (isset($_GET['lang'])) {$lang = $_GET['lang'];}
 
 $description = array(
-    'es' => 'Conformamos un equipo de profesionales altamente capacitados en materia legal, fscal y de auditoría fnanciera.', 
+    'es' => 'Conformamos un equipo de profesionales altamente capacitados en materia legal, fiscal y de auditoría fnanciera.', 
     'en' => 'We make up a team of highly trained professionals in matters of legal, fiscal and financial auditing.',
     'pt' => 'Formamos uma equipe de profissionais altamente treinados em questões legais, fiscais e de auditoria financeira.',
 );
